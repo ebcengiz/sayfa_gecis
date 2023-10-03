@@ -2,15 +2,12 @@
 
 Sayfa gecislerini gosterdigim projem
 
-## Getting Started
+Anasayfam
+![Anasayfa](https://github.com/ebcengiz/sayfa_gecis/assets/99767648/5c4f3edf-b73d-4006-9d72-9fa913705300)
 
-This project is a starting point for a Flutter application.
+B sayfası
+![Bsayfa](https://github.com/ebcengiz/sayfa_gecis/assets/99767648/fea640d0-7881-45eb-b082-49584d1378f5)
 
-A few resources to get you started if this is your first Flutter project:
+Donus Sayfası
+![DonusSayfa](https://github.com/ebcengiz/sayfa_gecis/assets/99767648/c7066bb3-ec98-46bf-b18c-0724097cf4a9)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
