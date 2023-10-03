@@ -1,6 +1,6 @@
 # sayfa_gecis
 
-A new Flutter project.
+Sayfa gecislerini gosterdigim projem
 
 ## Getting Started
 
